@@ -17,8 +17,8 @@
     iframe {
         height: 100%;
         width: 100%;
-        margin: 0;
-        padding: 0;
+        margin: 2;
+        padding: 2;
     }
   </style>
 
@@ -29,8 +29,7 @@
 </head>
 <body>
    
-    <iframe 
-        src="https://app.powerbi.com/reportEmbed?reportId=9b87e700-31e6-41e4-b837-8d7e26b3a1a8&autoAuth=true&ctid=97e1982b-375c-460e-9071-9067de86388b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLW5vcnRoLWV1cm9wZS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D">
+    <iframe src="https://app.powerbi.com/reportEmbed?reportId=1ae04dbc-e429-4202-a144-7e69a409d87b&autoAuth=true&ctid=97e1982b-375c-460e-9071-9067de86388b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLW5vcnRoLWV1cm9wZS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D">
     </iframe>
 
 </body>
