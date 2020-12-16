@@ -15,10 +15,8 @@
     }
 
     iframe {
-        height: 100%;
-        width: 100%;
-        margin: 2;
-        padding: 2;
+        height: 95%;
+        width: 95%;
     }
   </style>
 
