@@ -12,6 +12,8 @@ namespace SqlWebApp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+
+
             /*
             //Connecting to db
             string connString = "Server=tcp:sep6-server.database.windows.net,1433;Initial Catalog=AirData;Persist Security Info=False;User ID={};Password={};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
